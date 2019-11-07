@@ -192,6 +192,10 @@
     <string name="color_green_title">Green</string>
     <string name="color_blue_title">Blue</string>
 
+    <!-- Three-fingers-swipe to screenshot -->
+    <string name="swipe_to_screenshot_gesture_title">Swipe to screenshot</string>
+    <string name="swipe_to_screenshot_gesture_summary">Swipe three fingers to take screenshot</string>
+
     <!-- LiveDisplay : Picture Adjustment -->
     <string name="picture_adjustment_title">Picture adjustment</string>
     <string name="picture_adjustment_summary">Adjust hue, saturation, intensity, and contrast</string>

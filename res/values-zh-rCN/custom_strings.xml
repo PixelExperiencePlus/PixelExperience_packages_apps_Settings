@@ -69,10 +69,6 @@
     <string name="advanced_keyboard_settings_title">高级设置</string>
     <string name="fast_charging_title">正在快速充电</string>
     <string name="fast_charging_summary">禁用以减少设备在充电时产生的热量或延长电池的使用寿命</string>
-    <string name="display_cutout_force_fullscreen_title">全屏应用</string>
-    <string name="display_cutout_force_fullscreen_summary">强制应用忽略刘海区域</string>
-    <string name="search">搜索</string>
-    <string name="search_apps">搜索应用</string>
     <string name="security_settings_face_unlock_redo_face_scan_summary">移除现有的人脸数据并重新录入</string>
     <string name="security_settings_face_unlock_redo_face_scan_title">重新录入人脸数据</string>
     <string name="face_redo_confirm_btn">重做</string>
@@ -86,4 +82,6 @@
     <string name="reticker_colored_summary">使用通知应用主颜色替换 reTicker 背景颜色</string>
     <string name="game_space_title">游戏空间</string>
     <string name="game_space_summary">提升您的游戏体验</string>
+    <string name="display_cutout_force_fullscreen_title">全屏应用</string>
+    <string name="display_cutout_force_fullscreen_summary">强制应用忽略刘海区域</string>
 </resources>

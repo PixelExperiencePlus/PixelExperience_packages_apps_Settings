@@ -84,4 +84,6 @@
     <string name="game_space_summary">提升您的游戏体验</string>
     <string name="display_cutout_force_fullscreen_title">全屏应用</string>
     <string name="display_cutout_force_fullscreen_summary">强制应用忽略刘海区域</string>
+    <string name="search">搜索</string>
+    <string name="search_apps">搜索应用</string>
 </resources>

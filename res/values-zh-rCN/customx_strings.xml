@@ -116,6 +116,8 @@
     <string name="power_end_call_summary">按电源键结束当前通话</string>
     <string name="others_settings_title">其他设置</string>
     <string name="additional_buttons_title">更多按键</string>
+    <string name="game_space_title">游戏空间</string>
+    <string name="game_space_summary">提升您的游戏体验</string>
     <string name="click_partial_screenshot_title">点按以进行局部截图</string>
     <string name="click_partial_screenshot_summary">同时按音量下和电源键以截取局部截图</string>
     <string name="auto_brightness_one_shot_title">单次自动调节亮度</string>

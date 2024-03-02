@@ -100,6 +100,8 @@
     <!-- Summary for Wellbeing screen time usage. [CHAR LIMIT=NONE] -->
     <string name="screen_time_summary_usage_today">今日 %1$s</string>
     <!-- Hardware info -->
-    <string name="platform_revision">平台</string>
+    <string name="soc_model">处理器</string>
     <string name="total_ram">总内存</string>
+    <string name="device_manufacturer">制造商</string>
+    <string name="device_codename">设备</string>
 </resources>

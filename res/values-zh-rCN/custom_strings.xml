@@ -98,7 +98,7 @@
     <!-- Default getTimeSpentInApp string for Wellbeing to display. [CHAR LIMIT=NONE] --> 
     <string name="duration_less_than_one_minute">不到1分钟</string> 
     <!-- Summary for Wellbeing screen time usage. [CHAR LIMIT=NONE] -->
-    <string name="screen_time_summary_usage_today">今日 %1$s</string>
+    <string name="screen_time_summary_usage_today">%1$s 今天</string>
     <!-- Hardware info -->
     <string name="soc_model">处理器</string>
     <string name="total_ram">总内存</string>
